@@ -1,0 +1,53 @@
+const oquvchilar = [
+    {
+        id: 1234 , 
+        password : 7777 , 
+        name : "Dilshod" , 
+        surname: "Pahriddinov" , 
+        coin: 418 , 
+        group: "f2 - 1999" , 
+        hp: 270 , 
+        teacher: "Sunnatbee" , 
+    },
+    {
+        id: 1277 , 
+        password : 1288 , 
+        name : "Safina " , 
+        surname: "Omonjonova" , 
+        coin: 2270 , 
+        group: "f2 - 1999" , 
+        hp: 770 , 
+        teacher: "Sunnatbee" , 
+    },
+    {
+        id: 1951 , 
+        password : 2785 , 
+        name : "said " , 
+        surname: "jahongirov" , 
+        coin: 100 , 
+        group: "f2 - 1999" , 
+        hp:111 , 
+        teacher: "Sunnatbee" , 
+    },
+    {
+        id: 77777 , 
+        password : 8282 , 
+        name : "jaloliddin" , 
+        surname: "Yovmiddinov" , 
+        coin: - 9229 , 
+        group: "f2 - 1999" , 
+        hp: 1 , 
+        teacher: "Sunnatbee" , 
+    },
+    {
+        id: 8329 , 
+        password : 1999 , 
+        name : "dilmuhammad " , 
+        surname: "Sattorov" , 
+        coin: 1 , 
+        group: "f2 - 1999" , 
+        hp: -100000 , 
+        teacher: "Sunnatbee" , 
+    }
+
+]
